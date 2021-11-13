@@ -9,7 +9,7 @@ public class Problem2 {
         System.out.println(b + " is a random number. ");
         System.out.println(c + " is the coolest field out there.");
 
-        
+
 
     }
 }

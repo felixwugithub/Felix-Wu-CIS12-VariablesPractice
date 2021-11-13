@@ -102,7 +102,7 @@ public class Main {
 
         Courses.sort(Comparator.comparing(Course::getBlock));
 
-        String scheduleTable = makeScheduleTable(80, Courses);
+        String scheduleTable = makeScheduleTable(width, Courses);
         System.out.print(scheduleTable);
 
     }
