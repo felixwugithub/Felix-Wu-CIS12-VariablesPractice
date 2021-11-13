@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Felix-Wu-CIS12-VariablesPractice.iml" filepath="$PROJECT_DIR$/.idea/Felix-Wu-CIS12-VariablesPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part 1/Part 1.iml" filepath="$PROJECT_DIR$/Part 1/Part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part2/Part2.iml" filepath="$PROJECT_DIR$/Part2/Part2.iml" />
       <module fileurl="file://$PROJECT_DIR$/VariablesPractice/VariablesPractice.iml" filepath="$PROJECT_DIR$/VariablesPractice/VariablesPractice.iml" />
     </modules>
   </component>
