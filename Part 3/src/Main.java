@@ -99,7 +99,6 @@ public class Main {
         Courses.add(FR11);
 
         int width = 80;
-
         Courses.sort(Comparator.comparing(Course::getBlock));
 
         String scheduleTable = makeScheduleTable(width, Courses);
